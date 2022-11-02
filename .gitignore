@@ -1,0 +1,7 @@
+# directories
+vendor/
+logs/
+tests/
+
+# files
+index.php
